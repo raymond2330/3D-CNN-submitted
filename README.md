@@ -1,8 +1,4 @@
 # 3D CNN 
-This is just a sample code from geeks for geeks. I provided the link below
-```
-https://www.geeksforgeeks.org/video-classification-with-a-3d-convolutional-neural-network/
-```
 
 ## Prerequisites
 Ensure you have Python installed on your system.
